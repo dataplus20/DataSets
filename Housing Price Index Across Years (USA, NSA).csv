@@ -1,0 +1,52 @@
+﻿"HPI for nation (All-Transactions Index)
+Experimental Indexes Showing Cumulative (Nominal) Annual Appreciation",,,,
+,,,,
+"* These annual national indexes should be considered developmental. As with the standard FHFA HPIs, revisions to these indexes may reflect the impact of new data or technical adjustments. Indexes are calibrated using appraisal values and sales prices for mortgages bought or guaranteed by Fannie Mae and Freddie Mac. Index values always reflect data from that year. Three HPI values are provided and, since the indexes reflect cumulative appreciation since a certain period, the values reflect the base year being used (annual appreciations are the same). Column A denotes the year, Column B is the annual change, Column C is the index value with a base of 100 when first recorded, Column D is the index value with a base of 100 in 1990, and Column E is the index value with a base of 100 in 2000.",,,,
+"** For tracking and feedback purposes, please cite one of the associated papers. Three FHFA working papers (WP 16-01, WP 16-02, and WP 16-04) discuss different aspects of the data and each have been published by journals. A suggested citation is: Bogin, Alexander N., Doerner, William M. and Larson, William D. (2019). ""Local House Price Dynamics: New Indices and Stylized Facts"". Real Estate Economics, volume 47, issue 2, pages 365-398. The initial FHFA WP 16-01 is accessible at http://www.fhfa.gov/papers/wp1601.aspx.",,,,
+"Last updated: April 19, 2019.",,,,
+Not Seasonally Adjusted (NSA) ,,,,
+Year,Annual Change (%),HPI,HPI with 1990 base,HPI with 2000 base
+1975,.,100.00,35.17,26.28
+1976,5.67,105.67,37.17,27.77
+1977,13.56,120.00,42.21,31.53
+1978,14.97,137.96,48.53,36.25
+1979,13.51,156.60,55.08,41.15
+1980,10.15,172.49,60.67,45.33
+1981,7.15,184.82,65.01,48.57
+1982,5.11,194.26,68.33,51.05
+1983,-1.87,190.63,67.05,50.09
+1984,4.81,199.80,70.28,52.50
+1985,4.77,209.32,73.63,55.01
+1986,5.81,221.48,77.91,58.20
+1987,6.38,235.63,82.88,61.92
+1988,8.34,255.27,89.79,67.08
+1989,8.49,276.95,97.41,72.77
+1990,2.66,284.30,100.00,74.71
+1991,0.91,286.88,100.91,75.39
+1992,0.34,287.86,101.25,75.64
+1993,-0.33,286.92,100.92,75.40
+1994,1.83,292.17,102.77,76.77
+1995,3.72,303.02,106.58,79.63
+1996,3.22,312.79,110.02,82.19
+1997,3.90,324.98,114.31,85.40
+1998,3.64,336.81,118.47,88.50
+1999,4.42,351.69,123.70,92.41
+2000,8.21,380.55,133.86,100.00
+2001,6.43,405.02,142.46,106.43
+2002,5.23,426.19,149.91,111.99
+2003,4.23,444.22,156.25,116.73
+2004,8.42,481.64,169.41,126.56
+2005,11.31,536.10,188.57,140.88
+2006,6.44,570.61,200.71,149.94
+2007,0.97,576.14,202.65,151.39
+2008,-4.41,550.74,193.72,144.72
+2009,-7.54,509.23,179.12,133.81
+2010,-5.11,483.20,169.96,126.97
+2011,-4.39,461.98,162.50,121.40
+2012,-1.89,453.24,159.42,119.10
+2013,3.54,469.28,165.07,123.32
+2014,6.13,498.06,175.19,130.88
+2015,4.24,519.17,182.61,136.43
+2016,5.33,546.84,192.35,143.70
+2017,5.66,577.79,203.23,151.83
+2018,5.62,610.28,214.66,160.37
